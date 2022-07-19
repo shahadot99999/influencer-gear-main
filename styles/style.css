@@ -53,6 +53,9 @@ h1 {
     width: 70%;
 } */
 
+.horizental-line {
+    padding: 0 80px;
+}
 
 hr {
     border: 1px solid #D1D1D1;
