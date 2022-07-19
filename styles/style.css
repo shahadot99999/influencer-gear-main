@@ -14,3 +14,54 @@ body {
     background: #fff7f7;
 
 }
+
+
+
+.possition-main {
+    display: flex;
+    align-items: center;
+    padding: 0 80px;
+
+}
+
+/* Button Style  */
+.btn {
+    text-decoration: none;
+    display: inline-block;
+    color: white;
+    background-color: #E02C6D;
+    padding: 10px, 24px;
+    border-radius: 5px;
+}
+
+/* Tittle text  */
+.tittle-text {
+    width: 50%;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+/* Image position main camera */
+.img-right {
+    height: 414px;
+    width: 50%;
+}
+
+/* .img-right img {
+    width: 70%;
+} */
+
+
+hr {
+    border: 1px solid #D1D1D1;
+    width: 70%;
+    padding: 0 80px;
+
+}
+
+.logos-icon {
+    margin-right: 80px;
+
+}
